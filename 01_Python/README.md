@@ -2,8 +2,8 @@
 
 🧩 Focus: Core Python for Data Science
 Subfolders/Pages:
-✅ Variables_DataTypes_Typecasting
-✅ Operators_Expressions
+- ✅ Variables_DataTypes_Typecasting
+- ✅ Operators_Expressions
 ✅ Loops_and_Conditionals
 ✅ Functions_and_Lambda
 ✅ DataStructures (List, Tuple, Dict, Set)
