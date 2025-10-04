@@ -14,8 +14,8 @@ Include:
 - Real-world examples (like “how gradient descent uses derivatives”)
 
 📁 02_Maths_for_DataScience/
-   ├── Statistics/
-   ├── Probability/
-   ├── Linear_Algebra/
-   ├── Calculus/
-   ├── Summary_Notes.pdf
+   - ├── Statistics/
+   - ├── Probability/
+   - ├── Linear_Algebra/
+   - ├── Calculus/
+   - ├── Summary_Notes.pdf
